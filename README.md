@@ -1,3 +1,3 @@
 # Database-Lab-CSE-208
 
-#MYSQL
+All of the Lab codes are available in Different Branches.
